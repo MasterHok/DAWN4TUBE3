@@ -24,7 +24,7 @@ una vez echo esto pueden cerrar el navegador, no es necesario mantenerlo abierto
 
 https://nodejs.org/dist/v24.15.0/node-v24.15.0-win-x64.zip
 
-... si aun no lo tienen necesitaran Instalar WIN-RAR: 
+...  necesitaran WIN-RAR Instalado: 
 
 https://d.winrar.es/d/101z1777156778/SYbRhxr2NpR8jipmxU9-uQ/winrar-x64-720.exe). 
 
