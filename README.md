@@ -8,19 +8,19 @@ Este Script no toca ni cambia ni agrega nada raro al sistema Operativo Windows, 
 ANTES DE TODO SI GUSTAN REVISEN EL CODIGO O PREGUNTEN A UNA IA DE SU PREFERENCIA SOBRE EL COMPORTAMIENTO DE LOS 2
 CODIGOS DE LOS SCRIPTS QUE NECESITAREMOS EN ESTE PROYECTO. ES MAS DIVERTIDO ASI =).
 
-PARTE 1
+# PARTE 1
 
-PASO 1= INSTALAR FIREFOX e INICIAR SESION con una Cuenta GOOGLE y mirar un video de YOUTUBE.,
+**PASO 1**= INSTALAR FIREFOX e INICIAR SESION con una Cuenta GOOGLE y mirar un video de YOUTUBE.,
 una vez echo esto pueden cerrar el navegador, no es necesario mantenerlo abierto
 (_Este SCRIPT necesita SI o SI el navegador FIREFOX, pero puede cambiarse por CHROME por ejemplo).
 
-PASO 2= CREAR una carpeta con el nombre y ubicacion de tu PREFERENCIA.,
+**PASO 2**= CREAR una carpeta con el nombre y ubicacion de tu PREFERENCIA.,
 
-EJEMPLO = DAWN4TUBE2 
+**EJEMPLO = DAWN4TUBE2** 
 
 ...para el resto del tutorial nos referiremos a esta carpeta como RAIZ.
 
-PASO 3= DESCARGAR NODE.JS del siguiente LINK ( es DESCARGA DIRECTA):
+**PASO 3**= DESCARGAR NODE.JS del siguiente LINK ( es DESCARGA DIRECTA):
 
 https://nodejs.org/dist/v24.15.0/node-v24.15.0-win-x64.zip
 
@@ -32,15 +32,15 @@ https://d.winrar.es/d/101z1777156778/SYbRhxr2NpR8jipmxU9-uQ/winrar-x64-720.exe).
 
 EJEMPLO = ~/RAIZ/r/
 
-PARTE 2,
+# PARTE 2,
 
-PASO 1= Dentro de la carpeta RAIZ crearemos un nuevo documento de texto, no importa el nombre (al final podremos borrarlo) . abriremos el documento de texto y pegaremos el codigo de INSTALADOR.bat( o pueden descargar o clonar este repositorio si lo prefieren).
+**PASO 1**= Dentro de la carpeta RAIZ crearemos un nuevo documento de texto, no importa el nombre (al final podremos borrarlo) . abriremos el documento de texto y pegaremos el codigo de INSTALADOR.bat( o pueden descargar o clonar este repositorio si lo prefieren).
 
 Una vez guardado le daremos DOBLE CLICK y se abrira una ventana CMD ( es normal) y comenzara a descargar los 2 ultimos ARCHIVOS CLAVE para este SCRIPT ( juntos pesan menos de 150 Mb ) , uno es ytdlp.exe y el otro es ffmpeg.exe , 
 
 ... una vez termine la descarga la terminal de CMD deberia decir que todo esta Ok .
 
-PASO 2= Este es el ultimo PASO, ahora crearemos el SCRIPT principal, crearemos un nuevo DOCUMENTO DE TEXTO y en el Pegaremos el contenido de DESCARGADOR.bat(igualmente pueden descargarlo si gustan):,
+**PASO 2**= Este es el ultimo PASO, ahora crearemos el SCRIPT principal, crearemos un nuevo DOCUMENTO DE TEXTO y en el Pegaremos el contenido de DESCARGADOR.bat(igualmente pueden descargarlo si gustan):,
 
 ... daremos a click en Archivo y en Guardar como: y recuerden ponerle al final .bat EJEMPLO= DESCARGADOR.bat. 
 
