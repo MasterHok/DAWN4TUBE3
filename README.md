@@ -34,7 +34,9 @@ EJEMPLO = ~/RAIZ/r/
 
 # PARTE 2,
 
-**PASO 1**= Dentro de la carpeta RAIZ crearemos un nuevo documento de texto, no importa el nombre (al final podremos borrarlo) . abriremos el documento de texto y pegaremos el codigo de INSTALADOR.bat( o pueden descargar o clonar este repositorio si lo prefieren).
+**PASO 1**= Dentro de la carpeta RAIZ crearemos un nuevo documento de texto, no importa el nombre (al final podremos borrarlo) . abriremos el documento de texto y pegaremos el codigo de INSTALADOR.bat( o pueden descargar o clonar este repositorio si lo prefieren), pueden llamarlo INSTALADOR o como gusten pero recuerden poner al final .bat o no funcionara.
+
+EJEMPLO: INSTALADOR.bat
 
 Una vez guardado le daremos DOBLE CLICK y se abrira una ventana CMD ( es normal) y comenzara a descargar los 2 ultimos ARCHIVOS CLAVE para este SCRIPT ( juntos pesan menos de 150 Mb ) , uno es ytdlp.exe y el otro es ffmpeg.exe , 
 
